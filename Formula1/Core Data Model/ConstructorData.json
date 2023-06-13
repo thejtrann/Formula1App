@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Oracle Red Bull Racing",
+        "base": "Milton Keynes, United Kingdom",
+        "email": "conferences.events@redbullracing.com",
+        "website": "https://www.redbullracing.com/int-en",
+        "logo": "https://media.api-sports.io/formula-1/teams/1.png",
+        "teamChief": "Christian Horner",
+        "driverName1": "Max Verstappen",
+        "driverName2": "Sergio Perez"
+    },
+    {
+        "id": 2,
+        "name": "Scuderia Alpha Tauri",
+        "base": "Faenza, Italy",
+        "email": "info@scuderiaalphatauri.com",
+        "website":"https://scuderia.alphatauri.com/en/",
+        "logo": "https://media.api-sports.io/formula-1/teams/7.png",
+        "teamChief": "Franz Tost",
+        "driverName1": "Pierre Gasly",
+        "driverName2": "Yuki Tsunoda"
+    },
+    {
+        "id": 3,
+        "name": "Mclaren F1 Team",
+        "base": "Woking, United Kingdom",
+        "email": "experiences@mclaren.com",
+        "website":"https://www.mclaren.com/racing/",
+        "logo": "https://media.api-sports.io/formula-1/teams/2.png",
+        "teamChief": "Andreas Seidl",
+        "driverName1": "Daniel Ricciardo",
+        "driverName2": "Lando Norris"
+    },
+    {
+        "id": 4,
+        "name": "Scuderia Ferrari",
+        "base": "Maranello, Italy",
+        "email": "biglietteriamef@ferrari.com",
+        "website":"https://www.ferrari.com/en-EN/formula1",
+        "logo": "https://media.api-sports.io/formula-1/teams/3.png",
+        "teamChief": "Franz Tost",
+        "driverName1": "Pierre Gasly",
+        "driverName2": "Yuki Tsunoda"
+    },
+    {
+        "id": 5,
+        "name": "Haas F1 Team",
+        "base": "Kannapolis, United States",
+        "email": "sales@haas.co.uk",
+        "website":"https://www.haasf1team.com/",
+        "logo": "https://i.pinimg.com/originals/69/31/43/693143480c930547e6fd1e19f97aba97.png",
+        "teamChief": "Guenther Steiner",
+        "driverName1": "Mick Schumacher",
+        "driverName2": "Kevin Magnussen"
+    },
+    {
+        "id": 6,
+        "name": "Mercedes-AMG Petronas",
+        "base": "Brackley, United Kingdom",
+        "email": "enquiries@mercedesamgf1.com",
+        "website":"https://www.mercedesamgf1.com/en/",
+        "logo": "https://media.api-sports.io/formula-1/teams/5.png",
+        "teamChief": "Toto Wolff",
+        "driverName1": "Lewis Hamilton",
+        "driverName2": "George Russell"
+    },
+    {
+        "id": 7,
+        "name": "BWT Alpine F1 Team",
+        "base": "Enstone, United Kingdom",
+        "email": "dpo@renault.com",
+        "website":"https://www.alpine-cars.co.uk/f1-team.html",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alpine_F1_Team_Logo.svg/1200px-Alpine_F1_Team_Logo.svg.png",
+        "teamChief": "Otmar Szafnauer",
+        "driverName1": "Fernando Alonso",
+        "driverName2": "Esteban Ocon"
+    },
+    {
+        "id": 8,
+        "name": "Alfa Romeo F1 Team",
+        "base": "Hinwil, Switzerland",
+        "email": "Press@sauber-group.com",
+        "website":"https://www.sauber-group.com/motorsport/formula-1/",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Alfaracing.png/revision/latest?cb=20190202120527",
+        "teamChief": "Frederic Vasseur",
+        "driverName1": "Valtteri Bottas",
+        "driverName2": "Zhou Guanyu"
+    },
+    {
+        "id": 9,
+        "name": "Aston Martin Aramco Cognizant",
+        "base": "Silverstone, United Kingdom",
+        "email": "ENQUIRIES@ASTONMARTINRACING.COM",
+        "website":"https://www.astonmartinf1.com/en-GB/",
+        "logo": "https://cdn.carbuzz.com/gallery-images/840x560/818000/300/818335.jpg",
+        "teamChief": "Mike Krack",
+        "driverName1": "Sebastian Vettel",
+        "driverName2": "Lance Stroll"
+    },
+    {
+        "id": 10,
+        "name": "Williams Racing",
+        "base": "Grove, United Kingdom",
+        "email": "support@digital.williamsf1.com",
+        "website":"https://www.williamsf1.com/",
+        "logo": "https://doriltongroup.com/wp-content/uploads/2022/01/WilliamsRacing_logo2021_rgb_positive_stacked.png",
+        "teamChief": "Jost Capito",
+        "driverName1": "Nicholas Latifi",
+        "driverName2": "Alexander Albon"
+    }
+]

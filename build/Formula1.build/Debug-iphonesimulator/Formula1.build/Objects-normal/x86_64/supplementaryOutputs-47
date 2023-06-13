@@ -1,0 +1,45 @@
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/More/Videos/VideosList.swift":
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/VideosList.swiftdeps"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/VideosList.dia"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/VideosList.o"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/VideosList.d"
+"/Users/cs3714/Downloads/Formula1/Formula1/Supporting Files/NavigationStyle.swift":
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/NavigationStyle.o"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/NavigationStyle.swiftdeps"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/NavigationStyle.dia"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/NavigationStyle.d"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/More/F1 Teams/TeamDetails.swift":
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TeamDetails.d"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TeamDetails.o"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TeamDetails.swiftdeps"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TeamDetails.dia"
+"/Users/cs3714/Downloads/Formula1/Formula1/Supporting Files/UtilityFunctions.swift":
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/UtilityFunctions.d"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/UtilityFunctions.dia"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/UtilityFunctions.o"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/UtilityFunctions.swiftdeps"
+"/Users/cs3714/Downloads/Formula1/Formula1/Api Data Model/WeatherDataFromApi.swift":
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/WeatherDataFromApi.dia"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/WeatherDataFromApi.o"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/WeatherDataFromApi.d"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/WeatherDataFromApi.swiftdeps"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/Plan Trip/Trips/TripsList.swift":
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TripsList.dia"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TripsList.o"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TripsList.swiftdeps"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TripsList.d"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/More/Search Circuits/CircuitList.swift":
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/CircuitList.d"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/CircuitList.swiftdeps"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/CircuitList.o"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/CircuitList.dia"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/My Experiences/ExperienceDetails.swift":
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExperienceDetails.o"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExperienceDetails.dia"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExperienceDetails.swiftdeps"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExperienceDetails.d"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/Experiences on Map/ExpOnMapDetails.swift":
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExpOnMapDetails.o"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExpOnMapDetails.d"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExpOnMapDetails.swiftdeps"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExpOnMapDetails.dia"

@@ -1,0 +1,40 @@
+{
+  "source": "/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/More/Videos/VideoDetails.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "YouTube Video"
+      },
+      {
+        "comment": "",
+        "key": "Video Title"
+      },
+      {
+        "comment": "",
+        "key": "Video Thumbnail Image"
+      },
+      {
+        "comment": "",
+        "key": "Play Video"
+      },
+      {
+        "comment": "",
+        "key": "Video Release Date"
+      },
+      {
+        "comment": "",
+        "key": "Video Duration Time"
+      },
+      {
+        "comment": "",
+        "key": "hours:mins:secs"
+      },
+      {
+        "comment": "",
+        "key": "Play YouTube Video"
+      }
+    ]
+  },
+  "version": 1
+}

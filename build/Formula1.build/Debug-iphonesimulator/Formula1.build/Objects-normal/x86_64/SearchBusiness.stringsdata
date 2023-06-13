@@ -1,0 +1,44 @@
+{
+  "source": "/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/Plan Trip/Search Business/SearchBusiness.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Search Businesses"
+      },
+      {
+        "comment": "",
+        "key": "Enter Search Term"
+      },
+      {
+        "comment": "",
+        "key": "Enter Location"
+      },
+      {
+        "comment": "",
+        "key": "Search API"
+      },
+      {
+        "comment": "",
+        "key": "List Businesses Found"
+      },
+      {
+        "comment": "",
+        "key": "Clear"
+      },
+      {
+        "comment": "",
+        "key": "Search Completed"
+      },
+      {
+        "comment": "",
+        "key": "Search"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      }
+    ]
+  },
+  "version": 1
+}

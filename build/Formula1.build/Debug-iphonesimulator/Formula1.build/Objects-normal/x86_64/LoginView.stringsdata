@@ -1,0 +1,48 @@
+{
+  "source": "/Users/cs3714/Downloads/Formula1/Formula1/Startup Views/LoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "My Formula 1 Experiences"
+      },
+      {
+        "comment": "",
+        "key": "Password"
+      },
+      {
+        "comment": "",
+        "key": "Use Face ID or Touch ID"
+      },
+      {
+        "comment": "",
+        "key": "Login"
+      },
+      {
+        "comment": "",
+        "key": "Forgot Password"
+      },
+      {
+        "comment": "",
+        "key": "Invalid Password!"
+      },
+      {
+        "comment": "",
+        "key": "Please enter a valid password to unlock the app!"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      },
+      {
+        "comment": "",
+        "key": "Unable to Use Biometric Authentication!"
+      },
+      {
+        "comment": "",
+        "key": "Your device does not support biometric authentication!"
+      }
+    ]
+  },
+  "version": 1
+}

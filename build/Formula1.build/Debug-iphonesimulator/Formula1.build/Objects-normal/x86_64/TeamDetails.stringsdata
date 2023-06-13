@@ -1,0 +1,64 @@
+{
+  "source": "/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/More/F1 Teams/TeamDetails.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Team Details"
+      },
+      {
+        "comment": "",
+        "key": "Team Name"
+      },
+      {
+        "comment": "",
+        "key": "Team Logo"
+      },
+      {
+        "comment": "",
+        "key": "Team Base"
+      },
+      {
+        "comment": "",
+        "key": "Team Website"
+      },
+      {
+        "comment": "",
+        "key": "Team Email Address"
+      },
+      {
+        "comment": "",
+        "key": "Team Chief"
+      },
+      {
+        "comment": "",
+        "key": "Driver 1"
+      },
+      {
+        "comment": "",
+        "key": "Driver 2"
+      },
+      {
+        "comment": "",
+        "key": "Show Website"
+      },
+      {
+        "comment": "",
+        "key": "Copy Website URL"
+      },
+      {
+        "comment": "",
+        "key": "Send Email"
+      },
+      {
+        "comment": "",
+        "key": "Copy Email Address"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      }
+    ]
+  },
+  "version": 1
+}

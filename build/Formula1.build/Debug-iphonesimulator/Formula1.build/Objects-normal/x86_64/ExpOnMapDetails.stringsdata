@@ -1,0 +1,32 @@
+{
+  "source": "/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/Experiences on Map/ExpOnMapDetails.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Experience Details"
+      },
+      {
+        "comment": "",
+        "key": "Experience Title"
+      },
+      {
+        "comment": "",
+        "key": "Experience Photo"
+      },
+      {
+        "comment": "",
+        "key": "Circuit"
+      },
+      {
+        "comment": "",
+        "key": "Trip Start Date"
+      },
+      {
+        "comment": "",
+        "key": "Trip End Date"
+      }
+    ]
+  },
+  "version": 1
+}

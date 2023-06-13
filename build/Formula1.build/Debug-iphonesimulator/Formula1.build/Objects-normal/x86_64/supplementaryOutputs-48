@@ -1,0 +1,45 @@
+"/Users/cs3714/Downloads/Formula1/Formula1/Data Model/DatabaseChange.swift":
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DatabaseChange.d"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DatabaseChange.o"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DatabaseChange.dia"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DatabaseChange.swiftdeps"
+"/Users/cs3714/Downloads/Formula1/Formula1/Api Data Model/getJsonDataFromApi.swift":
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/getJsonDataFromApi.o"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/getJsonDataFromApi.d"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/getJsonDataFromApi.swiftdeps"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/getJsonDataFromApi.dia"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/Plan Trip/Planned Trips List/TravelDetails.swift":
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TravelDetails.swiftdeps"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TravelDetails.d"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TravelDetails.o"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TravelDetails.dia"
+"/Users/cs3714/Downloads/Formula1/Formula1/Api Data Model/ApiBusinessStruct.swift":
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ApiBusinessStruct.dia"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ApiBusinessStruct.o"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ApiBusinessStruct.d"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ApiBusinessStruct.swiftdeps"
+"/Users/cs3714/Downloads/Formula1/Formula1/Persistence.swift":
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/Persistence.d"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/Persistence.swiftdeps"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/Persistence.o"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/Persistence.dia"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/Plan Trip/Search Weather/SearchWeather.swift":
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchWeather.dia"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchWeather.d"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchWeather.o"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchWeather.swiftdeps"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/More/Search Drivers/DriverDetails.swift":
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverDetails.swiftdeps"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverDetails.o"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverDetails.d"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverDetails.dia"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/My Experiences/AddExperience.swift":
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/AddExperience.d"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/AddExperience.o"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/AddExperience.dia"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/AddExperience.swiftdeps"
+"/Users/cs3714/Downloads/Formula1/Formula1/Data Model/TeamStruct.swift":
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TeamStruct.d"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TeamStruct.swiftdeps"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TeamStruct.o"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/TeamStruct.dia"

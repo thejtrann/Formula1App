@@ -1,0 +1,68 @@
+{
+  "source": "/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/Plan Trip/Search Weather/WeatherDetails.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "3-Hour Forecast"
+      },
+      {
+        "comment": "",
+        "key": "Forecast Location"
+      },
+      {
+        "comment": "",
+        "key": "Show Forcast Location on Map"
+      },
+      {
+        "comment": "",
+        "key": "Date and Time 3-Hour Forecast"
+      },
+      {
+        "comment": "",
+        "key": "Weather Icon"
+      },
+      {
+        "comment": "",
+        "key": "Description"
+      },
+      {
+        "comment": "",
+        "key": "Humidity Percentage"
+      },
+      {
+        "comment": "",
+        "key": "Minimum Temperature"
+      },
+      {
+        "comment": "",
+        "key": "Maximum Temperature"
+      },
+      {
+        "comment": "",
+        "key": "%@, %@"
+      },
+      {
+        "comment": "",
+        "key": "Select Map Type"
+      },
+      {
+        "comment": "",
+        "key": "Show Diary Entry Location on Map"
+      },
+      {
+        "comment": "",
+        "key": "%lld%%"
+      },
+      {
+        "comment": "",
+        "key": "%@°F"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      }
+    ]
+  },
+  "version": 1
+}

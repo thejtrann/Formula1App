@@ -1,0 +1,45 @@
+"/Users/cs3714/Downloads/Formula1/Formula1/Core Data Model/Experience.swift":
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/Experience.d"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/Experience.swiftdeps"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/Experience.dia"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/Experience.o"
+"/Users/cs3714/Downloads/Formula1/Formula1/Supporting Files/UserAuthentication.swift":
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/UserAuthentication.o"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/UserAuthentication.d"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/UserAuthentication.dia"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/UserAuthentication.swiftdeps"
+"/Users/cs3714/Downloads/Formula1/Formula1/Api Data Model/ApiWeatherStruct.swift":
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ApiWeatherStruct.o"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ApiWeatherStruct.dia"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ApiWeatherStruct.d"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ApiWeatherStruct.swiftdeps"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/Plan Trip/Search Business/BusinessItem.swift":
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/BusinessItem.o"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/BusinessItem.dia"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/BusinessItem.d"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/BusinessItem.swiftdeps"
+"/Users/cs3714/Downloads/Formula1/Formula1/Supporting Files/WebView.swift":
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/WebView.o"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/WebView.d"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/WebView.dia"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/WebView.swiftdeps"
+"/Users/cs3714/Downloads/Formula1/Formula1/Api Data Model/DriverDataFromApi.swift":
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverDataFromApi.swiftdeps"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverDataFromApi.o"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverDataFromApi.dia"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverDataFromApi.d"
+"/Users/cs3714/Downloads/Formula1/Formula1/Supporting Files/MapView.swift":
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/MapView.d"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/MapView.o"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/MapView.dia"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/MapView.swiftdeps"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/Plan Trip/Search Weather/WeatherList.swift":
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/WeatherList.d"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/WeatherList.swiftdeps"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/WeatherList.o"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/WeatherList.dia"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/More/Search Circuits/SearchCircuit.swift":
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchCircuit.d"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchCircuit.dia"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchCircuit.swiftdeps"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchCircuit.o"

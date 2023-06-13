@@ -1,0 +1,100 @@
+{
+  "source": "/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/Plan Trip/Search Business/BusinessDetails.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Business Details"
+      },
+      {
+        "comment": "",
+        "key": "Business Name"
+      },
+      {
+        "comment": "",
+        "key": "Business Image"
+      },
+      {
+        "comment": "",
+        "key": "Business Rating Out of 5 Stars"
+      },
+      {
+        "comment": "",
+        "key": "Business Phone Number"
+      },
+      {
+        "comment": "",
+        "key": "based on %lld reviews"
+      },
+      {
+        "comment": "",
+        "key": "Call"
+      },
+      {
+        "comment": "",
+        "key": "Copy Phone Number"
+      },
+      {
+        "comment": "",
+        "key": "Business Website"
+      },
+      {
+        "comment": "",
+        "key": "Business Address"
+      },
+      {
+        "comment": "",
+        "key": "Select Map Type"
+      },
+      {
+        "comment": "",
+        "key": "Directions To Selected Business"
+      },
+      {
+        "comment": "",
+        "key": "Show Company Website"
+      },
+      {
+        "comment": "",
+        "key": "Copy Website URL"
+      },
+      {
+        "comment": "",
+        "key": "%@\n%@ %@\n%@, %@ %@, %@"
+      },
+      {
+        "comment": "",
+        "key": "Show Diary Entry Location on Map"
+      },
+      {
+        "comment": "",
+        "key": "Select Directions Transport Type"
+      },
+      {
+        "comment": "",
+        "key": "Select Directions on Map"
+      },
+      {
+        "comment": "",
+        "key": "Transport Type"
+      },
+      {
+        "comment": "",
+        "key": "Show Directions on Map"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      },
+      {
+        "comment": "",
+        "key": "From Current Location to %@"
+      },
+      {
+        "comment": "",
+        "key": "%@ Directions"
+      }
+    ]
+  },
+  "version": 1
+}

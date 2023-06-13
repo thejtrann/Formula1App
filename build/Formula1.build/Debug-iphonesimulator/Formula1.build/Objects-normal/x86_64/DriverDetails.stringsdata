@@ -1,0 +1,48 @@
+{
+  "source": "/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/More/Search Drivers/DriverDetails.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Driver Details"
+      },
+      {
+        "comment": "",
+        "key": "Driver Name"
+      },
+      {
+        "comment": "",
+        "key": "Driver Number"
+      },
+      {
+        "comment": "",
+        "key": "Driver Image"
+      },
+      {
+        "comment": "",
+        "key": "Driver Nationality"
+      },
+      {
+        "comment": "",
+        "key": "Driver Birthdate"
+      },
+      {
+        "comment": "",
+        "key": "Driver Birthplace"
+      },
+      {
+        "comment": "",
+        "key": "Driver Podium Count"
+      },
+      {
+        "comment": "",
+        "key": "%d"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      }
+    ]
+  },
+  "version": 1
+}

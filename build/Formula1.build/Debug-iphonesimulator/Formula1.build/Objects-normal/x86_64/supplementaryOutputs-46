@@ -1,0 +1,45 @@
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/More/Search Drivers/DriverList.swift":
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverList.dia"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverList.d"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverList.o"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverList.swiftdeps"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/My Experiences/MyExperiences.swift":
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/MyExperiences.swiftdeps"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/MyExperiences.o"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/MyExperiences.d"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/MyExperiences.dia"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/Plan Trip/Search Business/SearchBusiness.swift":
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchBusiness.dia"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchBusiness.d"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchBusiness.swiftdeps"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchBusiness.o"
+"/Users/cs3714/Downloads/Formula1/Formula1/Data Model/ExperienceStruct.swift":
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExperienceStruct.o"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExperienceStruct.d"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExperienceStruct.swiftdeps"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExperienceStruct.dia"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/More/Videos/VideoDetails.swift":
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/VideoDetails.dia"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/VideoDetails.d"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/VideoDetails.swiftdeps"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/VideoDetails.o"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/More/Search Drivers/DriverItem.swift":
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverItem.swiftdeps"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverItem.o"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverItem.dia"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/DriverItem.d"
+"/Users/cs3714/Downloads/Formula1/Formula1/Data Model/ExperienceData.swift":
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExperienceData.dia"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExperienceData.d"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExperienceData.swiftdeps"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ExperienceData.o"
+"/Users/cs3714/Downloads/Formula1/Formula1/Api Data Model/ApiCircuitStruct.swift":
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ApiCircuitStruct.o"
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ApiCircuitStruct.dia"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ApiCircuitStruct.swiftdeps"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/ApiCircuitStruct.d"
+"/Users/cs3714/Downloads/Formula1/Formula1/Tab Bar Views/More/Search Drivers/SearchDriver.swift":
+  diagnostics: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchDriver.dia"
+  dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchDriver.d"
+  object: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchDriver.o"
+  swift-dependencies: "/Users/cs3714/Downloads/Formula1/build/Formula1.build/Debug-iphonesimulator/Formula1.build/Objects-normal/x86_64/SearchDriver.swiftdeps"
